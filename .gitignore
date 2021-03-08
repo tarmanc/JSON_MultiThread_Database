@@ -1,0 +1,44 @@
+# Project exclude paths
+/.gradle/
+/JSON Database/task/build/
+/JSON Database/task/out/
+/JSON Database/task/out/production/classes/
+/JSON Database/task/out/test/classes/
+/Problems/A lambda expression with seven arguments/out/
+/Problems/A lambda expression with seven arguments/out/production/classes/
+/Problems/Alphabetical order/out/
+/Problems/Alphabetical order/out/production/classes/
+/Problems/Ascending and descending sorting/out/
+/Problems/Ascending and descending sorting/out/production/classes/
+/Problems/Check whether a number is prime/out/
+/Problems/Check whether a number is prime/out/production/classes/
+/Problems/Correct the program/out/
+/Problems/Correct the program/out/production/classes/
+/Problems/Correct the usage of non-generic class/out/
+/Problems/Correct the usage of non-generic class/out/production/classes/
+/Problems/Find the first occurrence of the word  the/out/
+/Problems/Find the first occurrence of the word  the/out/production/classes/
+/Problems/Implement a default method/out/
+/Problems/Implement a default method/out/production/classes/
+/Problems/Initialize an object of a generic class/out/
+/Problems/Initialize an object of a generic class/out/production/classes/
+/Problems/Messaging/out/
+/Problems/Messaging/out/production/classes/
+/Problems/Removing duplicates and sorting/out/
+/Problems/Removing duplicates and sorting/out/production/classes/
+/Problems/Safe converting/out/
+/Problems/Safe converting/out/production/classes/
+/Problems/Spell checker/out/
+/Problems/Spell checker/out/production/classes/
+/Problems/Ternary predicate/out/
+/Problems/Ternary predicate/out/production/classes/
+/Problems/The maximum product of adjacent elements/out/
+/Problems/The maximum product of adjacent elements/out/production/classes/
+/Problems/The sum of array elements/out/
+/Problems/The sum of array elements/out/production/classes/
+/Problems/Thread-safe account/out/
+/Problems/Thread-safe account/out/production/classes/
+/task/build/
+/task/out/
+/task/out/production/classes/
+/task/out/test/classes/
